@@ -5,7 +5,7 @@ A simple Android application that monitors network connectivity status using Jet
 
 ![Network Status](docs/connection_available.jpg)
 
-![Network Status](docs/no_connection.jpg.jpg)
+![Network Status](docs/no_connection.jpg)
 
 ## Features
 - Detects network connectivity status (online/offline)
